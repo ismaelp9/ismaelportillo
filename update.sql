@@ -1,1 +1,1 @@
-update usuarios set edad="21" where edad="44"
+update usuarios set edad="21" where edad="44";
