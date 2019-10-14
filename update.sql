@@ -1,1 +1,3 @@
-update usuarios set edad="21" where edad="44";
+update usuarios set Edad="21" where Edad="44";
+
+update cursos set nombre="Redes" where nombre="ASIR";
